@@ -1,8 +1,5 @@
 # AI-AGENT-SEARCH-ENGINE
 AI-powered search engine using NLP, machine learning, and web scraping for precise, contextual, and adaptive information retrieval. Open-source and customizable.
-# Browser-Use-WebUI
-
-This project builds upon the foundation of `browser-use`, designed to make websites accessible for AI agents.
 
 ## WebUI Overview
 - **Built on Gradio**: Supports most `browser-use` functionalities.
