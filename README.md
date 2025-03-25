@@ -1,4 +1,4 @@
-# AI-AGENT-SEARCH-ENGINE
+![image](https://github.com/user-attachments/assets/50c6e628-466b-4e77-8c73-1400ca2dc8a7)# AI-AGENT-SEARCH-ENGINE
 AI-powered search engine using NLP, machine learning, and web scraping for precise, contextual, and adaptive information retrieval. Open-source and customizable.
 # Browser-Use-WebUI
 
@@ -11,13 +11,19 @@ This project builds upon the foundation of `browser-use`, designed to make websi
 - **Custom Browser Support**: Allows using your own browser without re-login or authentication issues.
 - **Persistent Browser Sessions**: Keeps browser open between AI tasks for better session tracking.
 
-## Result Demo
-`69f95fffeb007aec7886fab4bf252342.webm`
+
+
 
 ### Snapshots
-- **Agent Interface Screenshot** (2025-02-26 23:37:28)
-- **Command Prompt Screenshot** (2025-02-26 23:36:41)
-- **Result Screenshot** (2025-02-26 23:38:30)
+- **Agent Interface Screenshot**
+- ![image](https://github.com/user-attachments/assets/9d59a6c2-4b7f-4165-8ee8-ca14d9f60180)
+
+- **Command Prompt Screenshot**
+- ![image](https://github.com/user-attachments/assets/744265f9-d7df-49d0-b000-a9f29e10f9f5)
+
+- **Result Screenshot**
+- ![image](https://github.com/user-attachments/assets/237f4564-56a3-40a1-8e56-85498e654f0d)
+
 
 ---
 
