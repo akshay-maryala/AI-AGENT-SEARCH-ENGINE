@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/50c6e628-466b-4e77-8c73-1400ca2dc8a7)# AI-AGENT-SEARCH-ENGINE
+# AI-AGENT-SEARCH-ENGINE
 AI-powered search engine using NLP, machine learning, and web scraping for precise, contextual, and adaptive information retrieval. Open-source and customizable.
 # Browser-Use-WebUI
 
